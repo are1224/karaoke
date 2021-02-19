@@ -9,3 +9,7 @@
 > <img src="/karaoke/karaoke1.png" width="80%" height="50%" title="방구석 " alt="개발개요"></img>
 ### 2. 서버 
 > <img src="/karaoke/karaoke2.png" width="80%" height="50%" title="방구석 " alt="서버"></img>
+### 3. 핵심 코드 
+> <img src="/karaoke/karaoke3.png" width="80%" height="50%" title="방구석 " alt="서버"></img>
+> <img src="/karaoke/karaoke4.png" width="80%" height="50%" title="방구석 " alt="서버"></img>
+> <img src="/karaoke/karaoke5.png" width="80%" height="50%" title="방구석 " alt="서버"></img>
