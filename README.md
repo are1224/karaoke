@@ -7,3 +7,5 @@
 따라서 스트레스 해소를 돕기 위해 방구석 노래방 프로젝트를 준비했다.
 > 1. 홈 화면 페이지    
 > <img src="/karaoke/karaoke1.png" width="80%" height="50%" title="방구석 " alt="개발개요"></img>
+### 2. 서버 
+> <img src="/karaoke/karaoke2.png" width="80%" height="50%" title="방구석 " alt="서버"></img>
