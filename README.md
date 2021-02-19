@@ -14,4 +14,7 @@
 > <img src="/karaoke/karaoke4.png" width="80%" height="50%" title="방구석 " alt="코드2"></img>
 > <img src="/karaoke/karaoke5.png" width="80%" height="50%" title="방구석 " alt="코드3"></img>
 ### 4. 웹캠
-> <img src="/karaoke/karaoke6.png" width="80%" height="50%" title="방구석 " alt="서버"></img>
+> <img src="/karaoke/karaoke6.png" width="80%" height="50%" title="방구석 " alt="웹캠"></img>
+### 5. 결과물
+> <img src="/karaoke/karaoke7.png" width="80%" height="50%" title="방구석 " alt="결과물"></img>
+> <img src="/karaoke/karaoke8.png" width="80%" height="50%" title="방구석 " alt="결과물"></img>
