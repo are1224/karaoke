@@ -10,6 +10,8 @@
 ### 2. 서버 
 > <img src="/karaoke/karaoke2.png" width="80%" height="50%" title="방구석 " alt="서버"></img>
 ### 3. 핵심 코드 
-> <img src="/karaoke/karaoke3.png" width="80%" height="50%" title="방구석 " alt="서버"></img>
-> <img src="/karaoke/karaoke4.png" width="80%" height="50%" title="방구석 " alt="서버"></img>
-> <img src="/karaoke/karaoke5.png" width="80%" height="50%" title="방구석 " alt="서버"></img>
+> <img src="/karaoke/karaoke3.png" width="80%" height="50%" title="방구석 " alt="코드1"></img>
+> <img src="/karaoke/karaoke4.png" width="80%" height="50%" title="방구석 " alt="코드2"></img>
+> <img src="/karaoke/karaoke5.png" width="80%" height="50%" title="방구석 " alt="코드3"></img>
+### 4. 웹캠
+> <img src="/karaoke/karaoke6.png" width="80%" height="50%" title="방구석 " alt="서버"></img>
