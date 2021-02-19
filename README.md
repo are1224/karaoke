@@ -18,3 +18,5 @@
 ### 5. 결과물
 > <img src="/karaoke/karaoke7.png" width="80%" height="50%" title="방구석 " alt="결과물"></img>
 > <img src="/karaoke/karaoke8.png" width="80%" height="50%" title="방구석 " alt="결과물"></img>
+### 6. 참고 자료
++ 에코효과 : https://github.com/kairess/karaoke-microphone
